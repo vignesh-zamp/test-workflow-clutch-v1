@@ -15,8 +15,8 @@ load_dotenv()
 
 # Configuration
 URL = "https://admin.staging.clutchenv.ca/private-purchases/59213148-6383-40fe-80f3-cc699c52abdb/tasks"
-USERNAME = "benjamin.koppeser+zamp@clutch.ca"
-PASSWORD = "MUSASHI-detailed-regiment-bothers-1!"
+USERNAME = ""
+PASSWORD = ""
 OUTPUT_DIR = "downloads"
 VIDEO_DIR = "videos"
 
